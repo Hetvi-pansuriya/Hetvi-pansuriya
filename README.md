@@ -6,12 +6,6 @@
 
 ---
 
-## ✨ About Me  
-- 🔭 Currently improving my **DSA & problem-solving skills**  
-- 🤖 Passionate about **AI/ML, Python development, and intelligent systems**  
-
----
-
 ## 🧰 Tech Stack
 
 <div align="left">
