@@ -67,6 +67,6 @@
 - 📧 Email: hetvipansuriya75@gmail.com  
 - 💼 LinkedIn: https://www.linkedin.com/in/hetvi-pansuriya
 
-  ---
+---
 
 - ✨ Fun fact: I love exploring ideas that help solve real-life problems!
