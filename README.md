@@ -47,11 +47,11 @@
 
 ---
 
-## 🧩 LeetCode & GitHub Progress
+## 🧩 LeetCode Progress
 
 ![LeetCode Stats](https://leetcode.card.workers.dev/Hetvi-pansuriya?theme=light&font=source_code_pro&border=0&radius=10&width=280)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hetvi-pansuriya&show_icons=true&theme=default)
+
 
 
 
