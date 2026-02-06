@@ -29,6 +29,9 @@
 <p>
   <img src="https://img.shields.io/badge/DSA-008080?style=for-the-badge" />
   <img src="https://img.shields.io/badge/OOP-800080?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Operating%20System-000000?style=for-the-badge&logo=linux&logoColor=white" />
+
+
 </p>
 
 ### 🟨 Tools & Platforms
